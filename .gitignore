@@ -1,0 +1,11 @@
+# Maven build output
+/target/
+
+# Local SQLite databases (may contain quiz activity)
+*.db
+*.db-shm
+*.db-wal
+
+# Local/generated presentation assets
+/outputs/
+/tmp/
